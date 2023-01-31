@@ -16,3 +16,5 @@ with the help of Visual Studio Code
 ![image](https://user-images.githubusercontent.com/64035537/215870947-c2264542-cdab-4b95-b731-636bee167f7c.png)
 
 ![image](https://user-images.githubusercontent.com/64035537/215871002-ff6a3d64-1cba-46fb-acff-7d6a4d181b65.png)
+
+Link :: https://www.linkedin.com/posts/ushan-jayamanne-05502b1b7_vuejs-vuetify-activity-6952511417593839616-Goxn?utm_source=share&utm_medium=member_desktop
